@@ -51,6 +51,27 @@ The insight that can be gained are:
 ## C. Multivariate Analysis
 ![alt text](image-4.png)
 
+Interpretation of Correlation with Attrition:
+1. **Age and Attrition**: Weak negative correlation (16%) </br>
+Younger employees are slightly more likely to leave the company compared to older employees. 
+
+2. **Job Involvement and Attrition**: Weak negative correlation (13%) </br>
+Employees with lower job involvement tend to leave the company.
+3. **Job Level and Attrition**: Weak negative correlation (17%) </br>
+Employees in lower-level jobs are more likely to leave the company than those in higher-level positions.
+4. **Monthly Income and Attrition**: Weak negative correlation (16%) </br>
+Employees with lower monthly incomes are more likely to leave the company.
+5. **Total Working Years and Attrition**: Weak negative correlation (17%) </br>
+Employees with fewer total working years are more likely to leave the company. 
+6. **Years in Current Role and Attrition**: Weak negative correlation (16%) </br>
+Employees with fewer years in their current role are slightly more likely to leave the company.
+7. **Years with Current Manager and Attrition**: Weak negative correlation (16%) </br>
+Employees with fewer years under their current manager are slightly more likely to leave the company.
+8. **Sales Representative Role and Attrition**: Weak positive correlation (16%) </br>
+Employees in the Sales Representative role are slightly more likely to leave the company.
+9. **Single Status and Attrition**: Weak positive correlation (18%) </br>
+Employees who are single are slightly more likely to leave the company.
+
 ## D. Predictive Analysis
 Predictive analysis was conducted using machine learning algorithms, with the result presented below:
 
